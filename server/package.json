@@ -7,9 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "tsx --watch server.ts",
-    "start": "tsx server.ts",
-    "build": "vite build",
-    "postinstall": "cd server && npm install"
+    "start": "tsx server.ts"
   },
   "keywords": [],
   "author": "",
